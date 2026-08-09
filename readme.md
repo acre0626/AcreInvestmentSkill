@@ -1,4 +1,4 @@
-Acre 用于投资研究的SKILL，其中：
+Acre Investment 用于投资研究的SKILL，其中：
 
 - general：用于通用研究
 - investor-research：用于投资人研究
