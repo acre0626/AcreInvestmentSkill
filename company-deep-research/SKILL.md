@@ -31,6 +31,6 @@ description: 公司深度研究
 - 公司的增长情况及原因？公司增长的关键变量是什么？
 
 市场观点：
-按照 [Acre的market-expectation SKILL](market-expectation/SKILL.md)进行分析
+按照 [Acre的market-expectation SKILL](../market-expectation/SKILL.md)进行分析
 
 
