@@ -22,21 +22,23 @@ Skill的使用规则：
 - 每次执行任务，都重新读取 GitHub 仓库中skill的最新版本，不使用此前对话中缓存或记忆的旧版本
 - 如果无法读取该 Skill，应明确告诉我，不得自行猜测 Skill 内容后继续执行
 
-【投资人研究 investor-research】
+【投资人研究】
 当我说：“分析投资人XXX”时：使用我GitHub仓库中的 `investor-research/SKILL.md`最新版本进行分析
 
-【行业研究 industry-research】
+【行业研究】
 当我说：“分析XXX行业”时：使用我GitHub仓库中的 `industry-research/SKILL.md`最新版本进行分析
 
-【行业对比研究 industry-compare】
+【行业对比研究】
 当我说：“对比XXX行业的子行业”时：使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
 
-【公司对比研究 company-compare】
+【公司对比研究】
 当我需要“对比一组公司”时：使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
 
-【公司深度研究 company-deep-research】
+【公司深度研究】
 当我说：“分析XXX公司”时：使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
 
+【市场预期】
+当我说：“市场对XXX公司的预期”时：使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
 
 
 
