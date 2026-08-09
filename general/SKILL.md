@@ -1,3 +1,7 @@
+---
+name: general
+description: 用于上市公司投资研究的全局 Skill 路由规则。根据指令，自动从 GitHub 仓库 acre0626/AcreInvestmentSkill 读取对应 Skill 的最新 SKILL.md，并严格按照其中定义的研究流程执行。
+---
 - 北京时区
 - 货币统一换算成人民币：元、万元、亿元
 - 在你原有的分析能力上，增加提供可溯源的事实、论点、论据、数据、链接等客观信息
