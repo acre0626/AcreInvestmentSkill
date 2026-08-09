@@ -1,6 +1,6 @@
 ---
 name: general
-description: 用于上市公司投资研究的全局 Skill 路由规则。根据指令，自动从 GitHub 仓库 acre0626/AcreInvestmentSkill 读取对应 Skill 的最新 SKILL.md，并严格按照其中定义的研究流程执行。
+description: 用于上市公司投资研究的全局 Skill 路由规则，部署在Chatgpt的【个性化-自定义规则】。根据指令，自动从 GitHub 仓库读取对应 Skill 的最新 SKILL.md，并严格按照其中定义的研究流程执行。
 ---
 - 北京时区
 - 货币统一换算成人民币：元、万元、亿元
@@ -32,7 +32,7 @@ Skill的使用规则：
 当我说：“对比XXX行业的子行业”时：使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
 
 【公司对比研究 company-compare】
-当我需要对比一组公司时：使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
+当我需要“对比一组公司”时：使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
 
 【公司深度研究 company-deep-research】
 当我说：“分析XXX公司”时：使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
