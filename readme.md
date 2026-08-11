@@ -5,5 +5,6 @@ Acre Investment 用于投资研究的SKILL，其中：
 2. [industry-research](industry-research/SKILL.md)：行业研究
 3. [industry-compare](industry-compare/SKILL.md)：行业对比
 4. [company-deep-research](company-deep-research/SKILL.md)：公司深度研究
-5. [company-compare](company-compare/SKILL.md)：公司对比
-6. [market-expectation](market-expectation/SKILL.md)：市场预期
+5. [company-quick-look](company-quick-look/SKILL.md)：公司概况速览
+6. [company-compare](company-compare/SKILL.md)：公司对比
+7. [market-expectation](market-expectation/SKILL.md)：市场预期
