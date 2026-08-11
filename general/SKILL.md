@@ -37,6 +37,9 @@ Skill调用提示词：
 【公司对比研究】
 当我需要“对比一组公司”时：使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
 
+【公司概况速览】
+当我说：“概述XXX公司”时：使用我GitHub仓库中的 `company-quick-look/SKILL.md`最新版本进行分析
+
 【公司深度研究】
 当我说：“分析XXX公司”时：使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
 
