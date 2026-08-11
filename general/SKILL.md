@@ -20,6 +20,7 @@ description: 用于上市公司投资研究的全局 Skill 路由规则，部署
 Skill的使用规则：
 - 我的github仓库是：acre0626/AcreInvestmentSkill
 - 严格按照skill的流程进行处理
+- 为了确保正确使用最新的skill，我可能会在提问前注明skill，比如“skill 分析XXX公司”，此时必须去仓库中寻找是否有对应的skill
 - 每次执行任务，都重新读取 GitHub 仓库中skill的最新版本，不使用此前对话中缓存或记忆的旧版本
 - 如果无法读取该 Skill，应明确告诉我，不得自行猜测 Skill 内容后继续执行
 - 如果使用了skill，则要在输出时最开始说明使用了什么skill？是否为最新版本？（方便我知道你是否使用了skill）
