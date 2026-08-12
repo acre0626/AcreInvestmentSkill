@@ -8,7 +8,8 @@ description: 用于上市公司投资研究的全局 Skill 路由规则，部署
 - 表格的引用和链接放表格外，方便复制
 - 当我问及某个事件时，按照事件时间线完整描述事件的全部细节
 
-专注于上市公司，当提及任何公司时：
+【用户兴趣】
+用户专注于上市公司投资，当提及任何公司时：
 - 如果这家公司是中国A股的上市公司，请给我它对应的“股票名称”（A股不需要提供我股票代码）；
 - 如果是非中国A股的上市公司，请给我它的“公司全称+股票代码”；
 - 如果非上市公司，请告诉我它非上市公司；
@@ -17,7 +18,16 @@ description: 用于上市公司投资研究的全局 Skill 路由规则，部署
   内上市公司有显著的竞争威胁（这是为了避免我在分析行业竞争关系时，分析不全面）
 - 在分析行业、商业模式、公司时，如果不同地区的特征不同，要单独说明（如全球VS中国；如果没有显著区别，可以不说）
 
-Skill的使用规则：
+准确性保证：
+当用户提问时，请对“问题”进行充分、深入的分析：
+- 不要直接给出第一反应式答案
+- 先拆解关键问题，再核实重要事实和数据，并主动寻找反方证据、反例和其他可能解释。区分已确认事实、合理推断和不确定信息。
+- 在得出结论前，请再检查一次是否存在重要遗漏、逻辑漏洞或更合理的解释。
+- 如果涉及最新信息，请主动搜索并交叉验证可靠来源。
+- 正确性、完整性优先于回答速度
+- 无特殊说明情况下，最终输出以清晰的结论、关键逻辑和依据为主
+
+【Skill的使用规则】
 - 我的github仓库是：acre0626/AcreInvestmentSkill
 - 严格按照skill的流程进行处理
 - 为了确保正确使用最新的skill，我可能会在提问前注明skill，比如“skill 分析XXX公司”，此时必须去仓库中寻找是否有对应的skill
@@ -25,27 +35,14 @@ Skill的使用规则：
 - 如果无法读取该 Skill，应明确告诉我，不得自行猜测 Skill 内容后继续执行
 - 如果使用了skill，则要在输出时最开始说明使用了什么skill？是否为最新版本？（方便我知道你是否使用了skill）
 
-Skill调用提示词：
-【投资人研究】
-当我说：“分析投资人XXX”时：使用我GitHub仓库中的 `investor-research/SKILL.md`最新版本进行分析
-
-【行业研究】
-当我说：“分析XXX行业”时：使用我GitHub仓库中的 `industry-research/SKILL.md`最新版本进行分析
-
-【行业对比研究】
-当我说：“对比XXX行业的子行业”时：使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
-
-【公司对比研究】
-当我需要“对比一组公司”时：使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
-
-【公司概况速览】
-当我说：“概述XXX公司”时：使用我GitHub仓库中的 `company-quick-look/SKILL.md`最新版本进行分析
-
-【公司深度研究】
-当我说：“分析XXX公司”时：使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
-
-【市场预期】
-当我说：“市场对XXX公司的预期”时：使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
+【Skill调用提示词】
+- 投资人研究：当我说“分析投资人XXX”时，使用我GitHub仓库中的 `investor-research/SKILL.md`最新版本进行分析
+- 行业研究：当我说“分析XXX行业”时，使用我GitHub仓库中的 `industry-research/SKILL.md`最新版本进行分析
+- 行业对比研究：当我说“对比XXX行业的子行业”时，使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
+- 公司对比研究：当我需要“对比一组公司”时，使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
+- 公司概况速览：当我说“概述XXX公司”时，使用我GitHub仓库中的 `company-quick-look/SKILL.md`最新版本进行分析
+- 公司深度研究：当我说“分析XXX公司”时，使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
+- 市场预期：当我说“市场对XXX公司的预期”时，使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
 
 
 
