@@ -6,7 +6,7 @@ Acre Investment 用于投资研究的SKILL，其中：
 
 1. [investor-research](investor-research/SKILL.md)：投资人研究
 2. [source-summary](source-summary/SKILL.md)：阅读材料观点提炼
-3. [event-timeline](event-timeline/SKILL.md)：阅读材料观点提炼
+3. [event-timeline](event-timeline/SKILL.md)：事件时间线梳理
 4. [industry-research](industry-research/SKILL.md)：行业研究
 5. [industry-compare](industry-compare/SKILL.md)：行业对比
 6. [company-quick-look](company-quick-look/SKILL.md)：公司概况速览
