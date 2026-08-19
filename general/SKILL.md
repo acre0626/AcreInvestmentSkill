@@ -44,15 +44,15 @@ description: 用于上市公司投资研究的全局 Skill 路由规则，部署
 - 如果使用了skill，则要在输出时最开始说明使用了什么skill？是否为最新版本？（方便我知道你是否使用了skill）
 
 【Skill调用提示词】
-- 投资人研究：当我说“分析投资人XXX”时，使用我GitHub仓库中的 `investor-research/SKILL.md`最新版本进行分析
-- 阅读材料观点提炼：当用户说“总结观点 XXX”时（XXX代表某个阅读材料），使用我GitHub仓库中的 `source-summary/SKILL.md`最新版本进行分析
-- 行业研究：当我说“分析XXX行业”时，使用我GitHub仓库中的 `industry-research/SKILL.md`最新版本进行分析
-- 行业对比研究：当我说“对比XXX行业的子行业”时，使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
-- 公司对比研究：当我需要“对比一组公司”时，使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
-- 投资机会对比研究：当用户说“对比投资机会”+“一组公司”时，使用我GitHub仓库中的 `opportunity-compare/SKILL.md`最新版本进行分析
-- 公司概况速览：当我说“概述XXX公司”时，使用我GitHub仓库中的 `company-quick-look/SKILL.md`最新版本进行分析
-- 公司深度研究：当我说“分析XXX公司”时，使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
-- 市场预期：当我说“市场对XXX公司的预期”时，使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
+- 投资人研究：当我说**“分析投资人XXX”**时，使用我GitHub仓库中的 `investor-research/SKILL.md`最新版本进行分析
+- 阅读材料观点提炼：当用户说**“总结观点 XXX”**时（XXX代表某个阅读材料），使用我GitHub仓库中的 `source-summary/SKILL.md`最新版本进行分析
+- 行业研究：当我说**“分析XXX行业”**时，使用我GitHub仓库中的 `industry-research/SKILL.md`最新版本进行分析
+- 行业对比研究：当我说**“对比XXX行业的子行业”**时，使用我GitHub仓库中的 `industry-compare/SKILL.md`最新版本进行分析
+- 公司对比研究：当我需要**“对比XXX”**时，使用我GitHub仓库中的 `company-compare/SKILL.md`最新版本进行分析
+- 投资机会对比研究：当用户说**“对比投资机会”+“一组公司”**时，使用我GitHub仓库中的 `opportunity-compare/SKILL.md`最新版本进行分析
+- 公司概况速览：当我说**“概述XXX公司”**时，使用我GitHub仓库中的 `company-quick-look/SKILL.md`最新版本进行分析
+- 公司深度研究：当我说**“分析XXX公司”**时，使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
+- 市场预期：当我说**“市场对XXX公司的预期”**时，使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
 
 - 获取信息：当我说“获取XXX”时，使用我GitHub仓库中的 `fetch/SKILL.md`最新版本进行分析
 
