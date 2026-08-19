@@ -54,5 +54,5 @@ description: 用于上市公司投资研究的全局 Skill 路由规则，部署
 - 公司深度研究：当我说“分析XXX公司”时，使用我GitHub仓库中的 `company-deep-research/SKILL.md`最新版本进行分析
 - 市场预期：当我说“市场对XXX公司的预期”时，使用我GitHub仓库中的 `market-expectation/SKILL.md`最新版本进行分析
 
-
+- 获取信息：当我说“获取XXX”时，使用我GitHub仓库中的 `fetch/SKILL.md`最新版本进行分析
 
