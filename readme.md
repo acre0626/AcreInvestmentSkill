@@ -1,6 +1,7 @@
 Acre Investment 用于投资研究的SKILL，其中：
 
 - [general](general/SKILL.md)：通用投资研究
+- [fetch](fetch/SKILL.md)：获取信息
 
 
 1. [investor-research](investor-research/SKILL.md)：投资人研究
@@ -12,3 +13,4 @@ Acre Investment 用于投资研究的SKILL，其中：
 7. [company-compare](company-compare/SKILL.md)：公司对比研究
 8. [opportunity-compare](opportunity-compare/SKILL.md)：投资机会对比研究
 9. [market-expectation](market-expectation/SKILL.md)：市场预期
+
