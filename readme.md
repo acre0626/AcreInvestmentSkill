@@ -3,6 +3,8 @@ Acre Investment 用于投资研究的SKILL，其中：
 - [general](general/SKILL.md)：通用投资研究设置，Skill主路由
 - [fetch](fetch/SKILL.md)：获取标准格式信息
 
+---
+
 - [note-summary](note-summary/SKILL.md)：形成笔记
 - [source-summary](source-summary/SKILL.md)：阅读材料观点提炼
 - [investor-research](investor-research/SKILL.md)：投资人研究
