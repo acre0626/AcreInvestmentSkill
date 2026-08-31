@@ -14,6 +14,7 @@ Acre Investment 用于投资研究的SKILL，其中：
 - [company-quick-look](company-quick-look/SKILL.md)：公司概况速览
 - [company-deep-research](company-deep-research/SKILL.md)：公司深度研究
 - [company-compare](company-compare/SKILL.md)：公司对比研究
+- [company-financial-report-summary](company-financial-report-summary/SKILL.md)：公司最新财报增量信息
 - [opportunity-compare](opportunity-compare/SKILL.md)：投资机会对比研究
 - [market-expectation](market-expectation/SKILL.md)：市场预期
 
